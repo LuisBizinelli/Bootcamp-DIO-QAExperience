@@ -2,4 +2,4 @@
 
 ## Repositorio para desafios da bootcamp QA experience
 
-** Todos ** os desafios deste bootcamp serão marcados aqui neste repositorio.
+**Todos** os desafios deste bootcamp serão marcados aqui neste repositorio.
