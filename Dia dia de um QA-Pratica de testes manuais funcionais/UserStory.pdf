@@ -1,0 +1,87 @@
+ US1: 
+ Epico: Autenticação
+
+Valor: A autenticação é uma parte importante do sistema trazendo mais segurança ao usuario na hora de realizar alguma atividade dentro do sistema.
+
+Naravtiva do usuario: 
+
+                      Como cliente
+
+                       Eu quero acessar a plataforma
+
+                       Para verificar minhas informações ou trocar de senha
+
+  3. Requisitos:
+
+Atores: Cliente
+
+Ver documentação UI/UX linkada
+
+Dados:
+
+Criação de banco de dados para armazenamento de usuarios
+
+Criação de api para integração com front-end/banco de dados
+
+criação de tela de login com registro e recuperação de senha
+
+Plataformas:
+
+Web;
+
+Mobile
+
+devem ser configurados  ambientes para desenvolvimento, teste/QA e homologação
+
+Criterios de aceite:
+
+Usuário deve visualizar formulário para realizar login
+
+usuário deve visualizar recuperação de senha 
+
+usuário deve realizar login normalmente
+
+US2: 
+Epico: Pagamento
+
+Valor: A compra é o core desse negocio portanto deve ser funcional para usuários logados
+
+Naravtiva do usuario: 
+
+                      Como cliente
+
+                       Eu quero navegar pelos produtos
+
+                       Para realizar uma compra
+
+
+
+ Requisitos:
+
+Atores: Cliente
+
+Ver documentação UI/UX linkada
+
+Dados:
+
+Criação de banco de dados para armazenamento de compras e produtos
+
+Criação de api para integração com front-end/banco de dados
+
+criação de tela de produtos, carrinho e checkout com pagamento
+
+Criação de API para comunicação com cartão e vendas.
+
+Plataformas:
+
+Web;
+
+Mobile
+
+devem ser configurados  ambientes para desenvolvimento, teste/QA e homologação
+
+Criterios de aceite:
+
+Usuário deve visualizar produtos e conseguir adicionar/excluir eles de seu carrinho. 
+
+usuário deve realizar pagamento.
