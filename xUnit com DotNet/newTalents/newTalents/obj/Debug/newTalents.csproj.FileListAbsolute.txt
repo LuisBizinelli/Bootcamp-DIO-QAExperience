@@ -1,0 +1,17 @@
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\newTalents.exe.config
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\newTalents.exe
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\newTalents.pdb
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\obj\Debug\newTalents.csproj.AssemblyReference.cache
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\obj\Debug\newTalents.csproj.SuggestedBindingRedirects.cache
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\obj\Debug\newTalents.csproj.CoreCompileInputs.cache
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\obj\Debug\newTalents.exe
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\obj\Debug\newTalents.pdb
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.abstractions.dll
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.assert.dll
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.core.dll
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.execution.desktop.dll
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.abstractions.xml
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.assert.xml
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.core.xml
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\bin\Debug\xunit.execution.desktop.xml
+C:\Users\lbizinelli\Documents\DIO\BootcampQA\Bootcamp-DIO-QAExperience\.net\newTalents\newTalents\obj\Debug\newTalents.csproj.CopyComplete

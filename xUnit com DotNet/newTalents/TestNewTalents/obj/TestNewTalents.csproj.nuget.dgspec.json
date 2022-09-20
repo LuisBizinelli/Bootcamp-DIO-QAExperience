@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\TestNewTalents\\TestNewTalents.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\newTalents\\NewTalents.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\newTalents\\NewTalents.csproj",
+        "projectName": "NewTalents",
+        "projectPath": "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\newTalents\\NewTalents.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\TestNewTalents\\TestNewTalents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\TestNewTalents\\TestNewTalents.csproj",
+        "projectName": "TestNewTalents",
+        "projectPath": "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\TestNewTalents\\TestNewTalents.csproj",
+        "packagesPath": "C:\\Users\\lbizinelli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\TestNewTalents\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\lbizinelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\newTalents\\NewTalents.csproj": {
+                "projectPath": "C:\\Users\\lbizinelli\\Documents\\DIO\\BootcampQA\\Bootcamp-DIO-QAExperience\\.net\\newTalents\\newTalents\\NewTalents.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
